@@ -2,10 +2,6 @@
 
 Explore and manage exciting travel tour packages with our Travel Tours application. This project showcases a list of tour packages, allowing users to view details and remove tours they're not interested in.
 
-## Demo
-
-A live demo of the application is available at: [Travel Tours Demo]()
-
 ## Installation
 
 1. Clone the repository:
