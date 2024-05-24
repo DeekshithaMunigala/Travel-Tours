@@ -6,7 +6,7 @@ Explore and manage exciting travel tour packages with our Travel Tours applicati
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/travel-tours.git
+   git clone https://github.com/DeekshithaMunigala/travel-tours.git
    cd travel-tours
    ```
 
